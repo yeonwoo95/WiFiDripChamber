@@ -1,14 +1,21 @@
 URL : http://gordonmacshane.wix.com/wifidripchamber (Initial webpage address)
+New URL : http://smartdripchamber.wix.com/wifidripchamber (Settled)
   Images :
     Logo :
    Main Page Image : 
    Instructions Image ("Does it work?") :
  Video :
  Content :
-    Home :
-    About :
-      Smart Drip Chamber :
-      How Does it Work? :
-    Contact :
+    Home : //Catchy Phrases for people who just visited the website and saw the first page
+    "IV management becomes easy / Less time spent on documenting" with main page image
+    About : //Brief instruction of the product which should be short enough to not to bored people out, but long enough to give the right concept of the Smart Drip Chamber.
+    "Wirelss IV Solution"
+    "There was no drip chamber like this before / Our Wifi IV Drip Chamber will change / The paradigm of patient management"
+    "We are Engineering students from the Cooper Union who find the problem and give the solution. / And we found one in medical area. / We all know how dreadful it is to collect the data of numerous patinets and organize it. / Here is our solution, our new product: / Wifi IV Drip Chamber"
+      Smart Drip Chamber : // More techmical and detailed information about Smart Drip Chamber 
+      ""
+      How Does it Work? : // Short explanation/instruction of how does the product actually work and benefit
+      ""
+    Contact : // Contact information of us
   
 
